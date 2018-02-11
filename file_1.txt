@@ -1,0 +1,31 @@
+# Files_Exceptions
+
+# Reading an entire file
+# Save this for use
+
+3.1415926435
+  8979323846
+  2643383279
+
+#  File Paths
+
+#  To get Python to open file from a dir other
+#     than the one where the program file is 
+#     stored, we need a file path
+#  As text_files is inside python_work, we can
+#     use a relative file path to open a file from
+#     text_files
+#  A relative file path tells Python to look for the
+#     given location relative to the dir, where the
+#     currently running program file is stored.
+#
+#  Write in OS X
+#     with open('text_files/filename.txt') as file_object:
+#
+#  We use an absolute path if a relative path doesn't work
+#  With absolute paths we can read files from any location 
+#     in the system
+#
+#  Write in OS X
+#      file_path ='/home/ehmatthes/other_files/text_files/filename.txt'
+#      with open(file_path) as file_object:
