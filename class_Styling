@@ -1,0 +1,21 @@
+#  Styling Classes
+
+#  Class Names should be in CamelCaps
+
+#  Every class should have a doctring following the class
+#     definition. It should be a brief description of what
+#     the class does
+
+#  Each module should have a docstring describing what the
+#    classes in the module can be used for
+
+#  Within a class, we can use one blank line btw methods and
+#     within a module, we can use two blank lines to separate
+#     classes
+
+#  If we need to import a module from the std lib and a module
+#     that we write, place the import stat for the std lib 
+#     module first. Then add a blank line and the import stat
+#     for  the module that you write
+
+
