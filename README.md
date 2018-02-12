@@ -1,4 +1,7 @@
 # pythonCrash
 
-Citation
-Python Crash Course - Eric Matthes
+# Citation
+
+#     Python Crash Course 
+
+#         Eric Matthes
